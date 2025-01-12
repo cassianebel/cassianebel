@@ -11,6 +11,7 @@
 -	🥑 [Yumble](https://github.com/cassianebel/yumble) - find recipes that fit your preferences
 -	🍿 [Flix Finder](https://github.com/cassianebel/flix-finder) - movie search app
 -	👾 [triviAI](https://github.com/cassianebel/trivia-with-openai) - trivia app powered by AI
+-	⏱️ [Pomodoro](https://github.com/cassianebel/pomodoro) - a pomodoro timer
 
 
 ## 🔎 Find Out More
